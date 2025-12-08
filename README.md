@@ -39,7 +39,6 @@ Founder of **Al-Alawi Digital Marketing**, and passionate about building clean, 
 ---
 
 ### 🚀 Some Projects  
-(Replace these with links to your projects when ready)
 
 - **Flutter Graduation Project** – (coming soon)
 - **Digital Marketing Projects – Al-Alawi Group**
