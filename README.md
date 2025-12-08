@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Ahmed Sayed Ahmed Kamel**, a software engineer focusing on mobile and backend development.  
+I'm **Ahmed Sayed **, a software engineer focusing on mobile and backend development.  
 Founder of **Al-Alawi Digital Marketing**, and passionate about building clean, scalable, and impactful software solutions.
 
 - 🔭 I’m currently working on improving my skills as a **Flutter developer** and **.NET backend developer**.
